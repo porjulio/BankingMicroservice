@@ -1,4 +1,4 @@
 # BankingMicroservice
 Capstone Proj for DevOps Training
 By: Kevin Lawrence C. Manipula
-Date: January 21, 2022
+Date: 21/01/2022 DD-MM-YYY
